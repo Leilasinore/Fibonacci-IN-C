@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694545183 source:c:\users\reer\proj\main.c
+	<stdio.h>
+
+1694545255 source:c:\users\reer\proj\armstrong.c
+	<math.h>
+
